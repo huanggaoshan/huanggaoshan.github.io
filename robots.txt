@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://huanggaoshan.github.io/sitemap.xml 
