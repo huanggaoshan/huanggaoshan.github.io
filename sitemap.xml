@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://huanggaoshan.github.io/blog/2013/12/05/helloworld/</loc>
+        <lastmod>2013-12-05T10:09:05+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://huanggaoshan.github.io/blog/archives/</loc>
-        <lastmod>2013-12-05T09:23:49+08:00</lastmod>
+        <lastmod>2013-12-05T10:09:05+08:00</lastmod>
     </url>
     <url>
         <loc>http://huanggaoshan.github.io/</loc>
-        <lastmod>2013-12-05T09:23:49+08:00</lastmod>
+        <lastmod>2013-12-05T10:09:05+08:00</lastmod>
     </url>
     <url>
         <loc>http://huanggaoshan.github.io/robots.txt</loc>
